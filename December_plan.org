@@ -1,15 +1,25 @@
 * TODO create a project in the github
 SCHEDULED: <2013-12-27 Fri>
 this must done in the end of the December
-* WAITING learn to configure rda drive
-SCHEDULED: <2013-12-27 Fri>
+* DONE learn to configure rda drive
+CLOSED: [2013-12-27 Fri 15:22] SCHEDULED: <2013-12-27 Fri>
+- State "DONE"       from "WAITING"    [2013-12-27 Fri 15:22]
 - State "WAITING"    from "STARTED"    [2013-12-27 Fri 10:21]
 - State "STARTED"    from "WAITING"    [2013-12-27 Fri 09:47]
 - State "WAITING"    from "STARTED"    [2013-12-27 Fri 09:22]
 - State "STARTED"    from "WAITING"    [2013-12-27 Fri 08:51]
 - State "WAITING"    from "STARTED"    [2013-12-27 Fri 08:50]
-* TODO Get my books back.(from Post office)
-SCHEDULED: <2013-12-28 Sat>
+* DONE Get my books back.(from Post office)
+CLOSED: [2013-12-30 Mon 08:41] SCHEDULED: <2013-12-28 Sat>
+- State "DONE"       from "TODO"       [2013-12-30 Mon 08:41]
 afternoon
-* TODO read CSAPP one chaper
+* WAITING read CSAPP one chaper
 SCHEDULED: <2013-12-29 Sun>
+- State "WAITING"    from "TODO"       [2013-12-30 Mon 08:41]
+first time fall!!!!!!!!!
+* STARTED config x215 target.def
+SCHEDULED: <2013-12-30 Mon>
+generate lod file
+* TODO learn chip works
+SCHEDULED: <2013-12-30 Mon>
+this will be delayed some days
