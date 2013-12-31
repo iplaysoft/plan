@@ -1,4 +1,4 @@
-* TODO create a project in the github
+* STARTED create a project in the github
 SCHEDULED: <2013-12-27 Fri>
 this must done in the end of the December
 * DONE learn to configure rda drive
@@ -17,9 +17,13 @@ afternoon
 SCHEDULED: <2013-12-29 Sun>
 - State "WAITING"    from "TODO"       [2013-12-30 Mon 08:41]
 first time fall!!!!!!!!!
-* STARTED config x215 target.def
-SCHEDULED: <2013-12-30 Mon>
+* DONE config x215 target.def
+CLOSED: [2013-12-30 Mon 09:05] SCHEDULED: <2013-12-30 Mon>
+- State "DONE"       from "STARTED"    [2013-12-30 Mon 09:05]
 generate lod file
 * TODO learn chip works
 SCHEDULED: <2013-12-30 Mon>
 this will be delayed some days
+* DONE Booking train tickets
+CLOSED: [2013-12-31 Tue 09:30]
+- State "DONE"       from "TODO"       [2013-12-31 Tue 09:30]
