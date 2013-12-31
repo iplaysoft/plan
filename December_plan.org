@@ -1,5 +1,6 @@
-* STARTED create a project in the github
-SCHEDULED: <2013-12-27 Fri>
+* DONE create a project in the github
+CLOSED: [2013-12-31 Tue 10:03] SCHEDULED: <2013-12-27 Fri>
+- State "DONE"       from "STARTED"    [2013-12-31 Tue 10:03]
 this must done in the end of the December
 * DONE learn to configure rda drive
 CLOSED: [2013-12-27 Fri 15:22] SCHEDULED: <2013-12-27 Fri>
