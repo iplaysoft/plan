@@ -2,3 +2,6 @@
 * WAITING write the Year-end summary
 Latest at SCHEDULED: <2014-01-05 Sun>
 - State "WAITING"    from "STARTED"    [2013-12-31 Tue 10:14]
+* DONE learn the c language senior statement and the feature of string constatn
+CLOSED: [2014-01-08 Wed 10:41] SCHEDULED: <2014-01-08 Wed>
+- State "DONE"       from "TODO"       [2014-01-08 Wed 10:41]
