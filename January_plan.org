@@ -5,3 +5,6 @@ Latest at SCHEDULED: <2014-01-05 Sun>
 * DONE learn the c language senior statement and the feature of string constatn
 CLOSED: [2014-01-08 Wed 10:41] SCHEDULED: <2014-01-08 Wed>
 - State "DONE"       from "TODO"       [2014-01-08 Wed 10:41]
+* DONE product x215 lod file
+CLOSED: [2014-01-09 Thu 11:24]
+- State "DONE"       from "TODO"       [2014-01-09 Thu 11:24]
